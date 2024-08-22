@@ -1,2 +1,2 @@
-# aula_22-08_Jo-oBertoncini
+# aula_22-08_JoaoBertoncini
 dinâmica github
